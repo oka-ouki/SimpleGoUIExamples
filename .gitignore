@@ -1,0 +1,12 @@
+SimpleUI*
+
+go.sum
+
+*.exe~
+*.dll
+*.so
+*.dylib
+
+**/bin
+**/*.log
+**/*.DS_Store
